@@ -1,0 +1,101 @@
+/*universal*/
+
+* {
+    box-sizing: border-box;
+}
+
+/*body*/
+
+body {
+    background-color: #EAC926;
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px ;
+
+}
+
+h2 {
+    font-size: 24px ;
+}
+
+
+/*tamaños tipograficos*/
+
+.precio {
+    font-size: 18px;
+    color: var(--color-grisOscuro);
+    /*display: none;*/
+}
+
+.descuento {
+    font-size: 16px;
+    color: var(--color-grisOscuro);
+    /*display: none;*/
+}
+
+.descripcion {
+    font-size: 16px;
+    color: var(--color-grisOscuro);
+    /*display: none;*/
+}
+
+
+/*iconos*/
+
+.burger-menu i{
+    background-color: blue ;
+    padding: 9px;
+    width: 20%;
+    color: white;
+    font-size: 200%;
+    border-radius:10px;
+    margin: auto;
+}
+
+
+
+/*listas*/
+
+nav li a{
+    text-decoration: none;
+    color: black;
+}
+
+nav ul{
+    list-style: none;
+}
+
+
+
+
+
+/*queries*/
+
+
+
+
+/*//clase animaciones
+
+
+.articulos {
+    padding: 10px;
+    background-color: white;
+    margin: 10px 0;
+}
+
+.articulos: hover .descripcion {
+    display: block;
+}
+
+.descripcion-art
+
+.articulos:hover {
+    box-shadow: 0px 0px 10px rgb
+
+.logo-envio i {
+    transition-property: transform ;
+    transition-duration: 1.5s ;
+}
+
+.logo-envio:hover i {
+    transform: rotate(-90deg)
